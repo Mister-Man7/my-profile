@@ -1,4 +1,4 @@
-# Hi, my name is ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Mister-Man7&label=Antakara&abbreviated=true)! <img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+# Hi, my name is ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Mister-Man7&label=Antakara&abbreviated=true) <img height="36px" width="36px" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
 - 🔭 I'm currently working on [SprotifyXMusic](https://github.com/Mister-Man7/SprotifyXMusic)
 - 🌱 I'm currently learning Python, NodeJS, HTML
