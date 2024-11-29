@@ -6,7 +6,10 @@
 - 😄 Pronouns He/Him
 - ⚡ Fun fact Act of services
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mister-Man7&theme=react&area=true&custom_title=Antakara%27s+GitHub+Stats&radius=12)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mister-Man7&theme=react&area=true&custom_title=Antakara%27s+Activity+Stats&radius=12)
+
+![GitHub Readme Stats - Stats Card](https://github-readme-stats.vercel.app/api?username=Mister-Man7&show_icons=true&include_all_commits=true&card_width=75&rank_icon=github&text_bold=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mister-Man7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
