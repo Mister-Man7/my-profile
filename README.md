@@ -15,4 +15,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mister-Man7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mister-Man7&icon=3&color=7)](https://visitcount.itsvg.in)
